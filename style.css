@@ -1,0 +1,78 @@
+/* Base styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink; /* Light gray background */
+}
+/* Header styles */
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+/* Section styles */
+section {
+    padding: 20px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    section {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 20px;
+    }
+
+    nav ul li {
+        font-size: 14px;
+    }
+
+    section {
+        padding: 5px;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: 600px; /* Set a fixed height */
+    width: 100%; /* Set a fixed width */
+    border: 2px solid #ccc; /* Add border to images */
+    border-radius: 5px; /* Rounded corners for images */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: blueviolet; /* Match header background */
+    color: white; /* Text color for contrast */
+    position: relative; /* Ensure proper positioning */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%; /* Full width */
+}
