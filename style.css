@@ -10,13 +10,19 @@ body {
 .image-paragraph-container {
     display: flex;
     align-items: center; /* Center vertically */
-    margin-bottom: 20px; /* Space below the container */
+    margin-right: 20px; /* Space between image and paragraph the container */
+    justify-content: flex-start; /* Align items to the start */
 }
 
 .image-paragraph-container img {
     margin-right: 20px; /* Space between image and paragraph */
-    width: 50%; /* Adjust width as needed */
+    width: 40%; /* Adjust width as needed */
     height: auto; /* Maintain aspect ratio */
+}
+
+.image-paragraph-container p {
+    width: 60%; /* Set width for paragraph */
+    margin: 0; /* Remove default margin */
 }
 
 header {
@@ -78,6 +84,20 @@ img {
     border: 2px solid #ccc; /* Add border to images */
     border-radius: 5px; /* Rounded corners for images */
 }
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+
 
 footer {
     text-align: center;
