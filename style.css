@@ -108,3 +108,9 @@ footer {
     bottom: 0; /* Stick to the bottom */
     width: 100%; /* Full width */
 }
+
+i {
+    font-size: 40px; /* Adjust icon size */
+    margin: 10px; /* Add spacing */
+    color: #f16529; /* Change color  */
+}
