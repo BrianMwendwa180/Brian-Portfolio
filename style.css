@@ -217,3 +217,21 @@ i {
 i:hover {
     color: darkblue; /* Change color on hover */
 }
+
+/* Styles for percentage bars */
+.percentage-bar {
+    background-color: #e0e0e0; /* Light gray background */
+    border-radius: 5px; /* Rounded corners */
+    overflow: hidden; /* Hide overflow */
+    height: 20px; /* Set height for the bar */
+    margin: 10px 0; /* Margin for spacing */
+}
+
+.bar {
+    background-color: #c78676; /* Fill color for the bar */
+    height: 100%; /* Full height of the parent */
+    text-align: center; /* Center text */
+    color: white; /* Text color */
+    line-height: 20px; /* Center text vertically */
+    font-weight: bold; /* Bold text */
+}
