@@ -10,7 +10,7 @@ Welcome to my portfolio! This repository showcases my work and projects as a sof
 - [Contact](#contact)
 - [Skills](#skills)
 - [Education](#education)
-- [Experience](#work experience)
+- [Experience](#experience)
 
 ## About Me
 
