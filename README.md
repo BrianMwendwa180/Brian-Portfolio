@@ -8,6 +8,9 @@ Welcome to my portfolio! This repository showcases my work and projects as a sof
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
+- [Skills](#skills)
+- [Education](#education)
+- [Experience](#work experience)
 
 ## About Me
 
@@ -38,7 +41,11 @@ Here are some of the projects I have worked on:
 
 ## Contact
 
-Feel free to reach out to me via [your email] or connect with me on [LinkedIn/GitHub].
+Feel free to reach out to me via 
+- brianmwendwa180@gmail.com
+ connect with me on:
+ - https://www.linkedin.com/in/mwendwa-munini-5632592a1/
+ - /https://github.com/BrianMwendwa180.
 
 Thank you for visiting my portfolio!
 
