@@ -33,8 +33,12 @@ Here are some of the projects I have worked on:
 - CSS
 - JavaScript
 
+## Host link
+- https://brianportfolio254.netlify.app/
+
 ## Contact
 
 Feel free to reach out to me via [your email] or connect with me on [LinkedIn/GitHub].
 
 Thank you for visiting my portfolio!
+
